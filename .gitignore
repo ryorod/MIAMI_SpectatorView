@@ -11,7 +11,9 @@
 /[Mm]emoryCaptures/
 
 /App/
+/App_2/
 /App_iOS/
+/App_iOS_2/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
