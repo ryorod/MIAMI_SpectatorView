@@ -3208,7 +3208,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 825e6dcd5c8f91c42a8cc167916e88b8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  receiverIp: 192.168.11.10
+  receiverIp: 10.0.1.102
   serverId: MusicVAE
   serverPort: 5656
   M4LId: M4L

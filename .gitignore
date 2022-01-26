@@ -14,6 +14,7 @@
 /App_2/
 /App_iOS/
 /App_iOS_2/
+/App_iOS_2_zeta/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
