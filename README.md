@@ -1,6 +1,7 @@
 # The Mixed Reality Interface for MIAMI (Spectator View QR ver.)
 
-The main repository of **MIAMI** is [here](https://github.com/ryorod/MIAMI).
+The main repository of **MIAMI** is [here](https://github.com/ryorod/MIAMI).  
+Clone [MixedReality-SpectatorView](https://github.com/microsoft/MixedReality-SpectatorView) and replace [SpectatorView.Example.Unity](https://github.com/microsoft/MixedReality-SpectatorView/tree/master/samples/SpectatorView.Example.Unity) with this.
 
 ---
 
